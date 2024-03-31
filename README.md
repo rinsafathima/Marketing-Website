@@ -1,0 +1,1 @@
+Frontend Implementation Using NextJs, Tailwind, React
